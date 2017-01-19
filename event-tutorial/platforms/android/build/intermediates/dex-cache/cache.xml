@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/btholmes/Documents/School/eventPractice/event-tutorial/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_9104b2719d06a6b1aeddd8d80759d628bd226b6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/School/Nomads/event-tutorial/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="/Users/btholmes/Documents/School/Nomads/event-tutorial/platforms/android/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.14.1_5f3654daca72c41fdde8f5310329bbe49a69711b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/School/Nomads/event-tutorial/platforms/android/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/btholmes/Documents/School/Nomads/event-tutorial/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_b636bc37e7cddc6eac8b4121c8e13531c210e102.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/School/eventPractice/event-tutorial/platforms/android/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/btholmes/Documents/School/eventPractice/event-tutorial/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_e53f0f1430a14a5251cdf367e1981a63a2e954d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/School/Nomads/event-tutorial/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/btholmes/Documents/School/Nomads/event-tutorial/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_3013c5b5de536782affa4d251d08c227d9c46824.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/School/eventPractice/event-tutorial/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="/Users/btholmes/Documents/School/eventPractice/event-tutorial/platforms/android/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.14.1_7b824683ae265e7f7ac5297c6be726ed647a65f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/btholmes/Documents/School/eventPractice/event-tutorial/platforms/android/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_a02dac702d4127220e3ebb7bec975d096aaa30b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/School/eventPractice/event-tutorial/platforms/android/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/Users/btholmes/Documents/School/eventPractice/event-tutorial/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-customtabs-23.4.0_cb0be515c4404343f09e8f77cac5a1e8e00ec266.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/School/Nomads/event-tutorial/platforms/android/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/Users/btholmes/Documents/School/Nomads/event-tutorial/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-customtabs-23.4.0_dfd7b377f3a79fe940b9dfbb4dd53f946fdf48e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/School/eventPractice/event-tutorial/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/btholmes/Documents/School/eventPractice/event-tutorial/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_ccb0050d788796582b6a2176c365c55ff4d3f1ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/School/Nomads/event-tutorial/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79d68b70e2f02123c5a1205261f8c9cc038870de">
+        <dex dex="/Users/btholmes/Documents/School/Nomads/event-tutorial/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_35021385d9e06850be9714f556f5970d99703164.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/School/Nomads/event-tutorial/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/btholmes/Documents/School/Nomads/event-tutorial/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_d5ee0683801bebc993a2bed1e2ad0eba129a01f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/btholmes/Documents/School/eventPractice/event-tutorial/platforms/android/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_13b5920cde892b219be14260a1db2b308c063627.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/School/eventPractice/event-tutorial/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/btholmes/Documents/School/eventPractice/event-tutorial/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_c13b5030ecd3249f32617dd27fe7933b1de7290b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/School/eventPractice/event-tutorial/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79d68b70e2f02123c5a1205261f8c9cc038870de">
+        <dex dex="/Users/btholmes/Documents/School/eventPractice/event-tutorial/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_dd67357d49c2e1624250b9d95c24825240ca7ac0.jar" />
+    </item>
+
+</items>

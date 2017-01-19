@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/btholmes/Documents/School/eventPractice/event-tutorial/platforms/android/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/btholmes/Documents/School/eventPractice/event-tutorial/platforms/android/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/School/Nomads/event-tutorial/platforms/android/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/btholmes/Documents/School/Nomads/event-tutorial/platforms/android/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/School/Nomads/event-tutorial/platforms/android/build/intermediates/res/merged/debug/xml/config.xml",
+        "source": "/Users/btholmes/Documents/School/Nomads/event-tutorial/platforms/android/res/xml/config.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/School/eventPractice/event-tutorial/platforms/android/build/intermediates/res/merged/debug/xml/config.xml",
+        "source": "/Users/btholmes/Documents/School/eventPractice/event-tutorial/platforms/android/res/xml/config.xml"
+    }
+]
